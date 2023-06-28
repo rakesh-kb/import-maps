@@ -1,0 +1,17 @@
+{
+  "name": "import-maps",
+  "version": "1.0.0",
+  "description": "",
+  "main": "hello.js",
+  "type": "module",
+  "scripts": {
+    "build": "rollup -c",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "rakesh.kb",
+  "license": "ISC",
+  "devDependencies": {
+    "rollup": "^3.25.3"
+  }
+}
